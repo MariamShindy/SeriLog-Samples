@@ -1,0 +1,7 @@
+2024-10-13 13:22:00.420 +03:00 [INF] Inventory Management Application Starting up
+2024-10-13 13:22:02.554 +03:00 [WRN] Invalid command entered: add 
+2024-10-13 13:22:12.444 +03:00 [INF] Added item: icecream with quantity: 45
+2024-10-13 13:24:20.856 +03:00 [INF] Inventory Management Application Starting up
+2024-10-13 13:24:33.008 +03:00 [INF] Your Name added item: icecream choco with quantity: 4
+2024-10-13 13:27:33.413 +03:00 [INF] Inventory Management Application Starting up
+2024-10-13 13:27:41.772 +03:00 [INF] Mariam Shindy added item: strawberry icecream with quantity: 5

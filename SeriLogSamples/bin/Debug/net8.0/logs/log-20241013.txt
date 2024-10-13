@@ -1,0 +1,6 @@
+2024-10-13 13:10:51.300 +03:00 [INF] Application Starting up
+2024-10-13 13:10:51.382 +03:00 [INF] Running the main application logic
+2024-10-13 13:10:51.387 +03:00 [DBG] Debugging info here
+2024-10-13 13:10:51.389 +03:00 [WRN] This is a warning message
+2024-10-13 13:10:51.391 +03:00 [ERR] An error occurred
+2024-10-13 13:10:51.392 +03:00 [INF] Application finished successfully
